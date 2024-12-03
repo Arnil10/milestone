@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tech",
+      "news"
+    ],
+    "date": "2024-12-03T08:53:16.834Z"
+  },
+  {
+    "id": 2,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tech",
+      "news"
+    ],
+    "date": "2024-12-03T09:53:23.945Z"
+  },
+  {
+    "id": 3,
+    "title": "Learning Node.js",
+    "content": "Node.js is an excellent runtime for building APIs.",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
+    "date": "2024-12-03T13:01:40.672Z"
+  },
+  {
+    "id": 4,
+    "title": "Learning Node.js",
+    "content": "Node.js is an excellent runtime for building APIs.",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
+    "date": "2024-12-03T13:01:48.190Z"
+  },
+  {
+    "id": 5,
+    "title": "Learning js",
+    "content": "js is an excellent runtime for building APIs.",
+    "tags": [
+      "js",
+      "javascript"
+    ],
+    "date": "2024-12-03T13:02:36.467Z"
+  }
+]
